@@ -1,6 +1,6 @@
-# Project Title
+# Project Template Readme.md
 
-Hello World description (One Paragraph)
+Project description Reademe.md (One Paragraph)
 
 ## Getting Started
 

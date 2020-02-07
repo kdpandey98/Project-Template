@@ -1,36 +1,37 @@
 # Project Title
 
-One Paragraph of project description goes here
+Hello World description (One Paragraph)
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Instructions to copy and run on the project on a local machine for development and testing purposes. 
+See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Things needed to install the software and how to install them
 
 ```
-Give examples
+Example 
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of examples on how to get a development env running
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+Step 1.  description 
 
 ```
-until finished
+Example
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Step 2.  repeat description and example until fininshed
+
+```
+Example
+```
+
+Step n:  Example to get some data out of the system or use it for a little demo
 
 ## Running the tests
 
@@ -38,10 +39,10 @@ Explain how to run the automated tests for this system
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
+Test 1:  description -- what and why of test
 
 ```
-Give an example
+Example
 ```
 
 ### And coding style tests
@@ -49,7 +50,7 @@ Give an example
 Explain what these tests test and why
 
 ```
-Give an example
+Example
 ```
 
 ## Deployment
@@ -85,27 +86,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-
-
-# Project Title 
-HelloWorld
-# Description 
-HelloWorld description 
-# Prerequisites: 
-None
-# Installation instructions 
-None
-# Tests
-None
-# Deployment Instructions
-None
-# Dependencies
-None
-# Code of conduct
-None
-# Maintainers
-Kiran Dev Pandey
-# License
-
-# Acknowledgements
-None

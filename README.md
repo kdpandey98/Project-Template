@@ -75,6 +75,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Kiran Dev Pandey** - *Initial work* - 
 
+
 See also the list of [contributors] () who participated in this project.
 
 ## License
@@ -83,6 +84,4 @@ This project is licensed under the MIT License - see the [LICENSE.md] () file fo
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* ** forked from Billie Thompson, PurpleBooth **

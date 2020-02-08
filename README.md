@@ -73,7 +73,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Kiran Dev Pandey** - *Initial work* - 
+* **Kiran Dev Pandey** - *Initial adaptation* - 
 
 
 See also the list of [contributors] () who participated in this project.
